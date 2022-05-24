@@ -1,0 +1,7 @@
+#!/bin/sh
+
+mkdir -p build
+
+yarn run mmdc -i README.md -o build/README.md
+
+pandoc --standalone -o build/index.html build/README.md
