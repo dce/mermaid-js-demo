@@ -5,7 +5,7 @@ This is a simple playground for experimenting with [Mermaid][1], "a Javascript b
 1. Run `yarn install`
 2. Make sure you have `fswatch` and `pandoc` installed
 3. Run `bin/serve`
-4. Open <http://localhost:8000> in your browser
+4. Open <http://localhost:8001> in your browser
 5. Edit the diagram below, then refresh your browser to see your changes reflected
 
 ## Example Sequence Diagram
