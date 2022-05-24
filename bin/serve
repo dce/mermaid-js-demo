@@ -4,4 +4,4 @@ bin/build
 
 fswatch -0 README.md | xargs -0 -n 1 bin/build &
 
-python3 -m http.server 8000 --directory build
+python3 -m http.server 8001 --directory build
